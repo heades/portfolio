@@ -1,0 +1,21 @@
+data-dir: /Users/heades/design/portfolio
+
+from: markdown+emoji
+
+to: html
+
+template: layouts/site
+
+output-file: 
+
+input-files: []
+
+standalone: true
+
+self-contained: false
+
+highlight-style: pygments
+
+email-obfuscation: javascript
+metadata:
+  email: harley.eades@gmail.com
