@@ -13,10 +13,6 @@ social-media:
 
 Welcome to my digital cork board!
 
-I'm interested in interaction design, user-interface design, the
-design of cross-platform mobile applications, and I'm very passionate
-about applying these methodologies to the design of health and fitness
-applications. I also enjoy software engineering and
-verification. Currently, I'm an associate professor of computer
-science in the School of Computer and Cyber Sciences at Augusta
-University.
+I believe that the essence of design is creative problem solving with a focus on quality and inclusion; everyone deserves well-designed thoughtful products.
+
+I’m interested in interaction design, user-interface design, the design of cross-platform mobile applications, and I’m very passionate about applying these methodologies to the inclusive design of health and fitness applications. I also enjoy software engineering and verification. Currently, I’m an associate professor of computer science in the School of Computer and Cyber Sciences at Augusta University.
